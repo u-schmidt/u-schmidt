@@ -15,7 +15,7 @@ I am deeply interested in how things work and how to turn them into a model, an 
 ### Projects
 
 - **[trunkdb](https://github.com/u-schmidt/trunkdb)**: an embedded document database in Rust. One file, no server, no schema.
-- **[Eidolon](https://github.com/u-schmidt/eidolon)**: a topic memory system for AI agents. It segments conversations into topics and keeps memory fragments instead of transcripts, retrieved by meaning, tags, people and time.
+- **[eidolon](https://github.com/u-schmidt/eidolon)**: a topic memory system for AI agents. It segments conversations into topics and keeps memory fragments instead of transcripts, retrieved by meaning, tags, people and time.
 
 ### Background
 
